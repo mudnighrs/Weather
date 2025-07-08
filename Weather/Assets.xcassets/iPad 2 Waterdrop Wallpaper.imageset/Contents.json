@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "filename" : "iPad 2 Waterdrop Wallpaper.jpg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "iPad 2 Waterdrop Wallpaper@2x.jpg",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "iPad 2 Waterdrop Wallpaper@3x.jpg",
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
